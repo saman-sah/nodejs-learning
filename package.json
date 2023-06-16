@@ -1,5 +1,20 @@
 {
+  "name": "samansahraeitestfirstpackage",
+  "version": "1.0.0",
+  "description": "publish first testing package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "saman",
+  "license": "ISC",
   "dependencies": {
-    "nodemon": "^2.0.22"
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@types/node": "^20.3.1"
   }
 }
